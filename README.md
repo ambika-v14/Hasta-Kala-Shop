@@ -27,24 +27,29 @@ Select a product
 Enter quantity
 Click SELL
 Instantly view total amount
+
 ✅ Inventory Tracking
 Automatic stock updates
 Low stock alerts
 Remaining stock display
+
 ✅ Sales Analytics
 Best-selling product tracking
 Total income calculation
 Daily / Weekly / Monthly reports
 Pie charts and bar charts using MPAndroidChart
+
 ✅ Sales History
 RecyclerView based sales records
 Product-wise transaction history
 Search and filter support
+
 ✅ Attractive UI
 Modern Material Design
 Stylish cards and buttons
 Responsive mobile layout
 Dark theme inspired design
+
 🧠 Technologies Used
 Technology	Purpose
 Kotlin	Android App Development
@@ -55,6 +60,7 @@ RecyclerView	Sales History List
 MPAndroidChart	Data Visualization
 Material Design	Attractive UI
 Git & GitHub	Version Control
+
 📂 Project Structure
 HastaKalaShop/
 │
@@ -74,13 +80,17 @@ HastaKalaShop/
 │   └── AndroidManifest.xml
 │
 └── README.md
+
 ⚙️ Installation Steps
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/HastaKalaShop.git
+
 2️⃣ Open in Android Studio
 Open Android Studio
 Click "Open"
 Select the project folder
+
 3️⃣ Sync Gradle
 Wait for Gradle sync to complete.
 
@@ -133,6 +143,7 @@ Ambika V Computer Science & Engineering Student at SJB Institute of Technology, 
 📧 Contact
 Email: ambiakash2@gmail.com
 GitHub: https://github.com/ambika-v14
+
 ⭐ Conclusion
 Hasta Kala Shop is a smart Android application designed to empower small artisans with digital inventory management, sales analytics, and business insights using modern Android technologies.
 
@@ -143,5 +154,6 @@ Database Management
 UI/UX Design
 Data Analytics
 AI-assisted Development
+
 🙌 Thank You
 If you like this project, consider giving it a ⭐ on GitHub.
